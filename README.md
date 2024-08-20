@@ -45,9 +45,9 @@ This will generate the **out** file with circuit intermediaries and geneate the 
    ```
    npx hardhat run scripts/deploy.ts
    ```
-   Deploying on Mumbai Test Network
+   Deploying on Amoy Test Network
    ```
-   npx hardhat run scripts/deploy.ts --network mumbai
+   npx hardhat run scripts/deploy.ts --network amoy
    ```
    This script performs the following tasks:
    - Deploys the verifier contract.
